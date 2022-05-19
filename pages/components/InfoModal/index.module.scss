@@ -1,0 +1,88 @@
+.infoModal {
+  margin-top: 8vh;
+  .cardItem {
+    width: 120px;
+    margin: 0 auto;
+    .headIcon {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+    }
+    .name {
+      font-size: 18px;
+      font-weight: 300;
+      margin: 14px 0 4px 0;
+    }
+    .brief {
+      color: #8c8c8c;
+      font-size: 14px;
+      font-weight: 300;
+    }
+  }
+}
+
+.modalBox {
+  min-height: 35vw;
+  border: 2px solid rgb(255, 67, 55);
+  padding: 2vw;
+  .icon {
+    color: rgb(255, 67, 55);
+    font-size: 36px;
+    position: absolute;
+    top: 22px;
+    right: 22px;
+  }
+  .innerBox {
+    display: flex;
+    .leftBox {
+      position: relative;
+      width: 45%;
+      .headPic {
+        position: relative;
+        width: 23vw;
+        height: 23vw;
+        object-fit: cover;
+        z-index: 99;
+      }
+      .dot {
+        height: 350px;
+        width: 195px;
+        // background: url("~@/assets/images/dot.svg");
+        position: absolute;
+        top: 10vh;
+        right: 0;
+      }
+    }
+    .rightBox {
+      border-color: blue;
+      margin-left: 2vw;
+      width: 55%;
+      .titleBox {
+        .title {
+          font-size: 55px;
+          font-weight: 600;
+        }
+        .brief {
+          color: #8c8c8c;
+          font-size: 16px;
+          font-weight: 300;
+        }
+      }
+      .contentBoxs {
+        margin-top: 1vh;
+        .contentBox {
+          .title {
+            color: #ff4337;
+            font-size: 14px;
+            font-weight: 600;
+            margin: 3vh 0 1vh 0;
+          }
+          .body {
+            font-size: 28px;
+            font-weight: 300;
+          }
+        }
+      }
+    }
+  }
+}

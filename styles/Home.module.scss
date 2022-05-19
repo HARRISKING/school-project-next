@@ -1,0 +1,25 @@
+.indexBox {
+  background: rgb(251, 251, 251);
+  .logoBox {
+    width: 100vw;
+    height: 10vh;
+    box-shadow: 10px 10px 5px #888888;
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    & > img {
+      object-fit: cover;
+    }
+  }
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 14vh;
+    background: #ebebeb;
+    font-size: 20px;
+    text-align: center;
+    min-height: 14vh;
+    margin-top: 20vh;
+  }
+}

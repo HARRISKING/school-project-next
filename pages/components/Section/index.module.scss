@@ -1,0 +1,73 @@
+.sectionBox {
+  width: 70vw;
+  margin: 0 auto;
+  margin-bottom: 5vh;
+  padding: 16px;
+  .headPicBox {
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+    background-size: cover;
+    padding: 20px;
+    .borders {
+      border: 2px solid rgb(255, 67, 55);
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .title {
+        color: rgb(242, 64, 52);
+        font-size: 99px;
+        font-weight: 600;
+      }
+    }
+  }
+  .sectionContent {
+    width: 100%;
+    margin-top: 8vh;
+    display: flex;
+    position: relative;
+    .subCard {
+      width: 40%;
+      background: #fff;
+      padding: 60px;
+      position: relative;
+      top: -20px;
+      right: -40px;
+      height: fit-content;
+      .title {
+        color: #ff4337;
+        font-size: 14px;
+        font-weight: 600;
+      }
+      .content {
+        font-size: 24px;
+        font-weight: 400;
+        margin-top: 20px;
+      }
+    }
+    .mainCard {
+      width: 60%;
+      padding: 60px 80px;
+      border: 2px solid rgb(255, 67, 55);
+      .title {
+        color: #ff4337;
+        font-size: 14px;
+        font-weight: 600;
+      }
+      .content {
+        font-size: 18px;
+        font-weight: 400;
+        margin-top: 20px;
+        .contentItem {
+          font-size: 18px;
+          font-weight: 300;
+          margin-bottom: 5vh;
+          .bold {
+            font-weight: 600;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+.headerBox {
+  .bannerBox {
+    width: 100vw;
+    height: 75vh;
+    .titleBox {
+      padding: 10vh 10vw 6vh 10vw;
+      .headerTitle {
+        font-size: 60px;
+        color: #fff;
+      }
+    }
+    .directory {
+      list-style-type: none;
+      padding: 0 10vw;
+      position: relative;
+      .directoryItem {
+        font-size: 18px;
+        color: #fff;
+        line-height: 42px;
+        text-decoration: none;
+        border-bottom: 1px solid;
+        padding-bottom: 5px;
+        &:hover {
+          border-bottom: none;
+        }
+      }
+      .backgroundImage {
+        // width: 70vw;
+        // height: 50vh;
+        // object-fit: cover;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      }
+    }
+  }
+  .contentsBox {
+    margin-top: 10vh;
+    padding: 0 10vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    .leftBox {
+      height: 70vh;
+      display: flex;
+      align-items: end;
+      .verifyText {
+        display: flex;
+        align-items: center;
+        transform: rotate(180deg);
+        font-weight: 900;
+        writing-mode: vertical-lr;
+        margin-left: -5vh;
+        .line {
+          height: 50vh;
+          width: 1px;
+          margin: 0 20px;
+          background: currentColor;
+          margin-top: 10px;
+        }
+      }
+      .dot {
+        height: 350px;
+        width: 195px;
+        // background: url("~@/assets/images/dot.svg");
+      }
+    }
+    .content {
+      margin-left: 18vw;
+      width: 450px;
+      font-size: 32px;
+      font-weight: 300;
+    }
+  }
+}

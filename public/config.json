@@ -1,0 +1,302 @@
+{
+  "top_screen": {
+    "title_list": [
+      "培养数智人力领域管理精英",
+      "打造数智特色领先的国家级",
+      "一流人力资源管理专业。"
+    ],
+    "background_image": "https://s1.328888.xyz/2022/04/26/8YtH1.jpg",
+    "background_color": "rgb(236,40,40)",
+    "content": "培养数智人力领域管理精英,打造数智特色领先的国家级一流人力资源管理专业。"
+  },
+
+  "module_List": [
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/28/A9l0S.jpg",
+      "key": "target",
+      "title": "培养目标",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的观点",
+        "content": "我们按照SKA模型推动学生在知识、技能和素质方面全面提升"
+      },
+      "main_card": {
+        "title": "培养目标",
+        "content_list": [
+          {
+            "bold_word": "知识：",
+            "common_word": "具有扎实的专业基础和广博的知识面，对专业有全面、深入、准确的认知。"
+          },
+          {
+            "bold_word": "业务能力：",
+            "common_word": "能综合性运用专业知识对人力资源管理的职能进行系统规划和运营。"
+          },
+          {
+            "bold_word": "业务技能：",
+            "common_word": "能结合业务和实践前沿，持续迭代专业技能。"
+          },
+          {
+            "bold_word": "特色：",
+            "common_word": "具备较强的数字化意识与思维，掌握各种人力资源管理数字化运营和人力数据分析。"
+          },
+          {
+            "bold_word": "素质能力：",
+            "common_word": "在终身学习、创新能力和领导力上表现突出。"
+          }
+        ]
+      }
+    },
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/28/A9Tsd.jpg",
+      "key": "special",
+      "title": "培养特色",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的理念",
+        "content": "以育人为本，创建有效的连接助力学生成长"
+      },
+      "main_card": {
+        "title": "培养目标",
+        "content_list": [
+          {
+            "bold_word": "",
+            "common_word": "1、将培养目标细化为，面向科学研究的拔尖型、面向就业的卓越型和面向人力资源服务业的创新创业型三种主要类型，实施分类培养"
+          },
+          {
+            "bold_word": "",
+            "common_word": "2、配置项目课题导师、校外实践导师和毕业论文导师三类导师与学生对接，进行日常指导"
+          },
+          {
+            "bold_word": "",
+            "common_word": "3、打造线上线下课程平台、实习实践平台、学术交流平台三类平台"
+          },
+          {
+            "bold_word": "",
+            "common_word": "3、打造线上线下课程平台、实习实践平台、学术交流平台三类平台"
+          }
+        ]
+      }
+    },
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/28/A9354.png",
+      "key": "class",
+      "title": "课程体系",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的理念",
+        "content": "教学是大学人才培养的主阵地"
+      },
+      "main_card": {
+        "title": "我们的课程",
+        "content_list": [
+          {
+            "bold_word": "我们的课程：",
+            "common_word": "思想政治理论课、公共数学课、公共外语课、公共计算机课"
+          },
+          {
+            "bold_word": "通识教育课：",
+            "common_word": "协作与沟通、创业学概论、创业模拟与实践"
+          },
+          {
+            "bold_word": "学科基础课：",
+            "common_word": "会计学、统计学、市场营销、人力资源管理、物流学、运营管理、西方经济学、管理学、新生研讨课"
+          },
+          {
+            "bold_word": "专业课：",
+            "common_word": "组织行为学、培训管理、招聘管理、绩效管理、薪酬管理、人力数据分析、人力资源管理实践前沿、人力资源管理信息系统、SAP ERP实验、毕业论文与学科前沿讲座"
+          }
+        ]
+      }
+    },
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/27/8ZM8M.jpg",
+      "key": "team",
+      "title": "师资团队",
+      "has_info_modal": true,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "师资团队",
+        "content": "教师是学生成长的守护者、激发者、引导者。"
+      },
+      "main_card": {
+        "title": "师资团队介绍",
+        "content_list": [
+          {
+            "bold_word": "",
+            "common_word": "共有教职工22人，其中教授12人，副教授5人，讲师5人，其中博士生导师8人，硕士生导师18人，已取得博士学位的教师15人，教育部高等学校工商管理类专业教学指导委员会委员1人，全国模范教师1人，江西省高等学校中青年学科带头人2人，“赣鄱英才555工程”领军人才1人，江西省“百千万人才工程”人才3人，江西省青年井冈学者2人，校级教学十佳3人，校级金牌主讲教师5人，校级网络教学优秀教师1人。"
+          },
+          {
+            "bold_word": "",
+            "common_word": "师生科研成果显著，已获国家自科基金立项数12项，国家社科基金项目1项，教育部人文社科项目1项，省级课题20余项，在本学科领域的高水平期刊《管理世界》、《中国工业经济》、《管理评论》、《南开管理评论》、《Journal of Applied Psychology》、《Journal of World Business》、《Journal of Occupational Health Psychology》、《Human Resource Management Journal》以及《Frontiers in Psychology》发表高水平文章若干篇。"
+          },
+          {
+            "bold_word": "",
+            "common_word": "在教学方面，拥有国家级一流课程2门，省级一流课程4门，和数字人力相关的新开课程4门，在教改课题以及省级、国家级教学成果奖方面均有斩获。"
+          }
+        ]
+      },
+      "info_modal_list": [
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vlSq.jpg",
+          "name": "何炜",
+          "brief": "江西南昌人，管理学博士，教授，博士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "组织理论、组织行为学、专业主义"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vDHe.jpg",
+          "name": "占小军",
+          "brief": "江西都昌人，管理学博士、教授、博士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "组织行为和人力资源管理"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86tD4.jpg",
+          "name": "明晓东",
+          "brief": "江西赣州人，理学博士，讲师，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "工作场所中的行为伦理、自我控制、正念、领导力"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86C82.png",
+          "name": "朱建斌",
+          "brief": "江西修水人、管理学博士，副教授、硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "商业创新、数字化人力资源管理"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/860v7.jpg",
+          "name": "熊立",
+          "brief": "江西南昌人，副教授，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "研究方向：组织行为学、战略人力资源管理、双元性理论和创业即兴"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/867LX.jpg",
+          "name": "王志成（1986-）",
+          "brief": "黑龙江人，博士、讲师、硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "知识隐藏，新生代员工，组织行为学"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86IzZ.jpg",
+          "name": "黄彬云",
+          "brief": "博士、副教授，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "国际人力资源管理、劳动力市场运行、就业关系"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/28/A9cZQ.jpg",
+      "key": "practice",
+      "title": "实践师资",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的理念",
+        "content": "与实践相结合，在做中学，学中做"
+      },
+      "main_card": {
+        "title": "实践师资分类",
+        "content_list": [
+          {
+            "bold_word": "",
+            "common_word": "1、人力资源运营师资：主要由公司的HRD或HRVP组成"
+          },
+          {
+            "bold_word": "",
+            "common_word": "2、数字人力咨询：主要由咨询公司资深顾问、项目经理组成"
+          },
+          {
+            "bold_word": "",
+            "common_word": "3、人力资源服务业：人力资源管理服务业CEO等"
+          }
+        ]
+      }
+    },
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/28/A9wg3.jpg",
+      "key": "cultivate",
+      "title": "培养环节",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的理念",
+        "content": "关注学生在大学期间的体验"
+      },
+      "main_card": {
+        "title": "培养环节",
+        "content_list": [
+          {
+            "bold_word": "",
+            "common_word": "1、入学环节"
+          },
+          {
+            "bold_word": "",
+            "common_word": "2、上课环节"
+          },
+          {
+            "bold_word": "",
+            "common_word": "3、第二课堂"
+          },
+          {
+            "bold_word": "",
+            "common_word": "4、实习就业"
+          },
+          {
+            "bold_word": "",
+            "common_word": "5、学科竞赛"
+          },
+          {
+            "bold_word": "",
+            "common_word": "6、实践环节"
+          },
+          {
+            "bold_word": "",
+            "common_word": "7、毕业论文"
+          }
+        ]
+      }
+    }
+  ],
+  "footer": "江西财经大学·工商管理学院·人力资源管理",
+  "logo": "https://s1.328888.xyz/2022/04/27/8MIMF.png"
+}
